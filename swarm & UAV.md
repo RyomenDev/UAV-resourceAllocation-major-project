@@ -15,7 +15,8 @@
 - Weight capacity
 - Energy consumption per km
 - Total energy available
-  ✅ Outpost Constraints
+
+✅ Outpost Constraints
 
 - Demand for resources (medicine, food, weapons)
 - Priority based on urgency
@@ -28,12 +29,14 @@
 - UAVs are modeled as particles that adjust their allocation strategy based on best-known positions.
 - Update velocity & position based on exploration (new solutions) and exploitation (best-known solutions).
 - Converges quickly to an optimal allocation of UAVs to outposts.
-  🔹 Ant Colony Optimization (ACO)
+
+🔹 Ant Colony Optimization (ACO)
 
 - UAV paths to outposts are treated as a graph.
 - Artificial pheromone levels are used to determine the best route selection over multiple iterations.
 - Helps optimize path planning, ensuring UAVs travel the most energy-efficient routes.
-  🔹 Artificial Bee Colony (ABC)
+
+🔹 Artificial Bee Colony (ABC)
 
 - UAVs act as artificial bees searching for optimal resource distribution solutions.
 - "Employed bees" exploit known solutions, while "scout bees" explore new solutions.
