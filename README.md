@@ -60,11 +60,11 @@ Total Energy Consumption: 50
 🚀 **Logistics & Supply Chain** – Automating resource delivery using UAV fleets
 
 ## Future Possible Improvements
-🔹 Incorporate **multi-objective optimization** (e.g., delivery time, fuel efficiency)
-🔹 Implement **hybrid metaheuristic algorithms** (e.g., Genetic Algorithm + PSO)
-🔹 Extend to **real-time dynamic allocation** with changing outpost demands
-🔹 UAV **recharge stations** 
-🔹 **multi-stop deliveries**
+- 🔹 Incorporate **multi-objective optimization** (e.g., delivery time, fuel efficiency)
+- 🔹 Implement **hybrid metaheuristic algorithms** (e.g., Genetic Algorithm + PSO)
+- 🔹 Extend to **real-time dynamic allocation** with changing outpost demands
+- 🔹 UAV **recharge stations** 
+- 🔹 **multi-stop deliveries**
 
 ## License
 This project is open-source under the **MIT License**.
