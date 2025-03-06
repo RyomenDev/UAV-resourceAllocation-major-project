@@ -1,1 +1,1 @@
-# UAV-resourceAllocation-major-project
+# UAV - Resourse Allocation
